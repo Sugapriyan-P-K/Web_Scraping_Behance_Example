@@ -7,6 +7,10 @@ You can also change the keyword for search.(The last shell in the script will do
 
 ## Requirements:
 - selenium
+
+  ```
+  pip install selenium
+  ```
 - webdriver - you have to install webdriver based on your version of your browser
 
 You can download webdriver by this link : https://chromedriver.chromium.org/downloads
